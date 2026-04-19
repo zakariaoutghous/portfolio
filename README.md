@@ -33,7 +33,7 @@ The goal of this portfolio is to present myself professionally as a developer an
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](add-screenshot-here)
+![Portfolio Screenshot](portfolio.png)
 
 ---
 
