@@ -1,21 +1,41 @@
 # 🌐 Personal Portfolio Website
 
-## 🚀 About the project
-This is my personal portfolio website where I showcase my skills, projects, and experience as a developer.
+## 🚀 Live Website
+👉 https://zakaria-outghous-portfolio.lovable.app/
 
-## 💡 Features
-- Clean and modern UI
-- Responsive design (mobile friendly)
-- Projects section
-- Contact information
+---
 
-## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
+## 💡 About the Project
+This is my personal developer portfolio built using Lovable.  
+It showcases my skills, projects, and contact information in a clean modern design.
+
+---
 
 ## 🎯 Purpose
-This project is used to present myself professionally as a developer and display my work to recruiters and clients.
+The goal of this portfolio is to present myself professionally as a developer and provide a central place to showcase my work.
+
+---
+
+## 🧠 Features
+- Modern UI/UX design
+- Responsive (mobile friendly)
+- Projects showcase section
+- Contact & social links
+- Clean and minimal design
+
+---
+
+## 🛠 Built With
+- Lovable AI
+- UI Design Tools
+- Web deployment platform
+
+---
+
+## 📸 Preview
+![Portfolio Screenshot](add-screenshot-here)
+
+---
 
 ## 🔗 Live Demo
-[Add your link here]
+👉 Click here: https://zakaria-outghous-portfolio.lovable.app/
